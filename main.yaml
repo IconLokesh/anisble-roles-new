@@ -4,4 +4,4 @@
   - varables.yaml
   become: yes
   roles:
-  - "{{components}}""
+  - "{{components}}"
