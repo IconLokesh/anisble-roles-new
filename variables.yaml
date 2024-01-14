@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.iconlokesh.online # submit your host
+REDIS_HOST: redis.iconlokesh.online
+MYSQL_HOST: mysql.iconlokesh.online
+RABBITMQ_HOST: rabbitmq.iconlokesh.online
+CATALOGUE_HOST: catalogue.iconlokesh.online
+USER_HOST: user.iconlokesh.online
+CART_HOST: cart.iconlokesh.online
+SHIPPING_HOST: shipping.iconlokesh.online
+PAYMENT_HOST: payment.iconlokesh.online
+DISPATCH_HOST: dispatch.iconlokesh.online
