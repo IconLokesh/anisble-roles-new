@@ -1,4 +1,4 @@
-- name: Install the "{{components}}""
+- name: Install the "{{components}}"
   hosts: "{{components}}"
   vars_files:
   - varables.yaml
